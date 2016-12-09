@@ -1,0 +1,18 @@
+This is git repo
+
+running local server
+
+goto mytasklist directory
+run node server
+
+
+---
+open another terminal 
+goto client directory in mytasklist
+run npm start
+
+
+open the browser and right localhost:3000
+
+cheers
+
